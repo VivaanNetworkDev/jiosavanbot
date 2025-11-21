@@ -1,7 +1,7 @@
 {
   "name": "JioSaavn Music Bot",
   "description": "🚀 Advanced Telegram bot for downloading high-quality music from JioSaavn. Features include smart search, playlist downloads, multiple quality options (48kbps-320kbps), admin panel, real-time statistics, and beautiful web interface. Perfect for music lovers!",
-  "repository": "https://github.com/Itz-Ashlynn/jiosavanbot",
+  "repository": "https://github.com/VivaanNetworkDev/jiosavanbot",
   "logo": "https://telegra.ph/file/668e019e93b622b467e7d.jpg",
   "keywords": [
     "jiosaavn",
