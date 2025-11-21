@@ -1,1 +1,1 @@
-web: python -m jiosaavn
+worker: python main.py
