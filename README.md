@@ -36,7 +36,7 @@
 
 ### One-Click Deploy
 
-[![Deploy to Heroku](https://img.shields.io/badge/Deploy_to-Heroku-purple?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/Itz-Ashlynn/jiosavanbot)
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy_to-Heroku-purple?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/VivaanNetworkDev/jiosavanbot)
 [![Deploy to Railway](https://img.shields.io/badge/Deploy_to-Railway-blue?style=for-the-badge&logo=railway)](https://railway.app/template/new?template=https://github.com/Itz-Ashlynn/jiosavanbot)
 [![Deploy to Render](https://img.shields.io/badge/Deploy_to-Render-green?style=for-the-badge&logo=render)](https://render.com/deploy/srepo-name=jiosavanbot)
 [![Deploy to Koyeb](https://img.shields.io/badge/Deploy_to-Koyeb-black?style=for-the-badge&logo=koyeb)](https://app.koyeb.com/deploy?type=git&repository=github.com/Itz-Ashlynn/jiosavanbot&branch=main&name=jiosaavn-bot)
