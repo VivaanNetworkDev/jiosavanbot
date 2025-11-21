@@ -44,7 +44,7 @@
       "required": true
     },
     "DATABASE_URL": {
-      "description": "MongoDB connection URL for storing user data and statistics",
+      "description": "MongoDB connection URL from MongoDB Atlas (Free: https://mongodb.com/cloud/atlas - Create M0 cluster, get connection string)",
       "required": true,
       "value": ""
     }
@@ -53,18 +53,10 @@
     {"url": "heroku/python"}
   ],
   "formation": {
-    "web": {
+    "worker": {
       "quantity": 1,
       "size": "basic"
     }
   },
-  "addons": [
-    "mongolab:sandbox"
-  ],
-  "scripts": {
-    "postdeploy": "python -m jiosaavn"
-  },
-  "success_url": "/",
-  "website": "https://github.com/Itz-Ashlynn/jiosavanbot",
   "stack": "heroku-22"
 }
